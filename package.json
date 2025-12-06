@@ -42,7 +42,8 @@
     "@stdlib/stats-base-ndarray-dmaxabs": "github:stdlib-js/stats-base-ndarray-dmaxabs#main",
     "@stdlib/stats-base-ndarray-maxabs": "github:stdlib-js/stats-base-ndarray-maxabs#main",
     "@stdlib/stats-base-ndarray-smaxabs": "github:stdlib-js/stats-base-ndarray-smaxabs#main",
-    "@stdlib/types": "^0.4.3"
+    "@stdlib/types": "^0.4.3",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-zeros": "^0.2.2",
