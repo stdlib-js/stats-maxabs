@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4b1efc6`](https://github.com/stdlib-js/stdlib/commit/4b1efc6552af03e1b7d260f6f10e7e042e7d68f6) - **docs:** update dtype type _(by Athan Reines)_
 -   [`ff435c0`](https://github.com/stdlib-js/stdlib/commit/ff435c01d291e9ef75429a026fb221b729aa4a07) - **docs:** update dtype type _(by Athan Reines)_
 -   [`94be096`](https://github.com/stdlib-js/stdlib/commit/94be096210ed131627cbefea2f275f8ec416e509) - **docs:** update return annotations to use ndarray instance notation for `stats/maxabs` [(#9084)](https://github.com/stdlib-js/stdlib/pull/9084) _(by Sachin Pangal)_
 -   [`48d0dcb`](https://github.com/stdlib-js/stdlib/commit/48d0dcbf02ab85d05d7b0904d5a7196435787c44) - **docs:** update examples in `stats/maxabs` [(#8824)](https://github.com/stdlib-js/stdlib/pull/8824) _(by Sachin Pangal)_
